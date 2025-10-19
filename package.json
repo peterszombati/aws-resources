@@ -1,7 +1,7 @@
 {
   "name": "aws-resources2",
   "type": "commonjs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Helper for creating resources in CloudFormation templates",
   "exports": {
     ".": {
@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterszombati/aws-resources.git"
+    "url": "git+https://github.com/peterszombati/aws-resources2.git"
   },
   "bugs": {
-    "url": "https://github.com/peterszombati/aws-resources/issues"
+    "url": "https://github.com/peterszombati/aws-resources2/issues"
   },
-  "homepage": "https://github.com/peterszombati/aws-resources#readme",
+  "homepage": "https://github.com/peterszombati/aws-resources2#readme",
   "keywords": [
     "aws",
     "cloudformation",
