@@ -1,6 +1,9 @@
-`npm install aws-resources2`
+### install via [npm](https://www.npmjs.com/package/aws-resources2)
+```
+npm i aws-resources2
+```
 
-example code
+### example code
 ```ts
 import { Resources, Template } from 'aws-resources2';
 
