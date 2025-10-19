@@ -1,7 +1,6 @@
 {
   "name": "aws-resources",
   "type": "commonjs",
-  "private": true,
   "version": "1.0.0",
   "description": "Helper for creating resources in CloudFormation templates",
   "exports": {
