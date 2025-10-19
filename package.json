@@ -1,5 +1,5 @@
 {
-  "name": "aws-resources",
+  "name": "aws-resources2",
   "type": "commonjs",
   "version": "1.0.0",
   "description": "Helper for creating resources in CloudFormation templates",
