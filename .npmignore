@@ -7,3 +7,5 @@
 /build/apps/resources/json/*
 /build/apps/resources/_getAllTypes.json
 /build/apps/utils/*
+/tsconfig.json
+/.gitignore
