@@ -2,7 +2,7 @@
 
 example code
 ```ts
-import { Resources, Template } from 'aws-resources';
+import { Resources, Template } from 'aws-resources2';
 
 const bucket = Resources.AWSS3Bucket({
   ResourceName: 'MyBucket',
