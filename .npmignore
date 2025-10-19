@@ -7,5 +7,7 @@
 /build/apps/resources/json/*
 /build/apps/resources/_getAllTypes.json
 /build/apps/utils/*
+/build/apps/npm.run.start.js
+/build/apps/npm.run.start.d.ts
 /tsconfig.json
 /.gitignore
