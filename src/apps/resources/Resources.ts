@@ -1392,7 +1392,7 @@ import {AWSXRaySamplingRule} from "./ts/AWSXRaySamplingRule"
 import {AWSXRayTransactionSearchConfig} from "./ts/AWSXRayTransactionSearchConfig"
 import {AlexaASKSkill} from "./ts/AlexaASKSkill"
 
-export default {
+export {
   AWSACMPCACertificate,
   AWSACMPCACertificateAuthority,
   AWSACMPCACertificateAuthorityActivation,
