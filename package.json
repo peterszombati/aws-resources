@@ -1,9 +1,9 @@
 {
-  "name": "aws-wrapper",
+  "name": "aws-resources",
   "type": "commonjs",
   "private": true,
   "version": "1.0.0",
-  "description": "aws-wrapper",
+  "description": "Helper for creating resources in CloudFormation templates",
   "exports": {
     ".": {
       "require": "./build/index.js",
@@ -34,5 +34,19 @@
     "yaml": "2.3.4"
   },
   "dependencies": {
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterszombati/aws-resources.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peterszombati/aws-resources/issues"
+  },
+  "homepage": "https://github.com/peterszombati/aws-resources#readme",
+  "keywords": [
+    "aws",
+    "cloudformation",
+    "infrastructure-as-code",
+    "iac"
+  ]
 }
