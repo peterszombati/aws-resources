@@ -1,0 +1,1 @@
+export type StringProperty = string | { 'Fn::Join': [ string, StringProperty[] ]} | { Ref: string } | { 'Fn::GetAtt': string } | { 'Fn::ImportValue': StringProperty } | { 'Fn::Sub': string | [ string, Record<string, StringProperty>] }

@@ -1,0 +1,38 @@
+{
+  "name": "aws-wrapper",
+  "type": "commonjs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "aws-wrapper",
+  "exports": {
+    ".": {
+      "require": "./build/index.js",
+      "import": "./build/index.js"
+    }
+  },
+  "files": [
+    "build/*"
+  ],
+  "types": "build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node build/apps/npm.run.start.js"
+  },
+  "author": "Peter Szombati",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "4.3.11",
+    "@types/jest": "29.5.11",
+    "@types/mocha": "10.0.6",
+    "typescript": "4.8.4",
+    "@aws-sdk/client-cloudformation": "^3.513.0",
+    "aws-sdk": "2.1390.0",
+    "chai": "5.0.0",
+    "mocha": "10.2.0",
+    "ts-mocha": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "yaml": "2.3.4"
+  },
+  "dependencies": {
+  }
+}
