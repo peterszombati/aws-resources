@@ -18,7 +18,7 @@
     "start": "node build/apps/npm.run.start.js"
   },
   "author": "Peter Szombati",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/chai": "4.3.11",
     "@types/jest": "29.5.11",
